@@ -1,0 +1,9 @@
+*.map
+*.d
+*.mcp
+*.mcs
+*.mcw
+Makefile
+NMakefile
+*.sbs
+
